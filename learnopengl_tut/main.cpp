@@ -93,8 +93,8 @@ int main()
         1, 2, 3    // second triangle
     };
 
-    Texture texture1("C:/Users/libur/Desktop/learnopengl_tut/textures/wooden_container.jpg");
-    Texture texture2("C:/Users/libur/Desktop/learnopengl_tut/textures/awesomeface.png", GL_TEXTURE_2D, GL_RGBA, GL_RGBA);
+    Texture texture1("C:/Users/libur/Desktop/opengl_project/textures/wooden_container.jpg");
+    Texture texture2("C:/Users/libur/Desktop/opengl_project/textures/awesomeface.png", GL_TEXTURE_2D, GL_RGBA, GL_RGBA);
 
 
     unsigned int VBO;
