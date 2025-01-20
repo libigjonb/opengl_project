@@ -192,7 +192,7 @@ int main()
         //glBindBuffer(GL_ELEMENT_ARRAY_BUFFER, EBO);
         //glPolygonMode(GL_FRONT_AND_BACK, GL_FILL);
         //glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, 0);
-
+        //lalalalalalal
 
         glfwSwapBuffers(window);
         glfwPollEvents();
