@@ -1,13 +1,10 @@
 ﻿  main.cpp
+C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(51,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(52,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(53,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(56,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(57,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(58,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(58,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(59,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(60,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(71,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(216,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(226,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(193,15): warning C4101: 'direction': unreferenced local variable
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(70,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(232,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
   learnopengl_tut.vcxproj -> C:\Users\libur\Desktop\opengl_project\x64\Debug\learnopengl_tut.exe

@@ -150,6 +150,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="frag_shader.fs" />
+    <None Include="light_fs.fs" />
+    <None Include="light_vs.vs" />
     <None Include="vert_shader.vs" />
   </ItemGroup>
   <ItemGroup>
