@@ -6,5 +6,6 @@ C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(57,23): warning C
 C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(58,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(59,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
 C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(70,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(232,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\libur\Desktop\opengl_project\learnopengl_tut\main.cpp(246,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   learnopengl_tut.vcxproj -> C:\Users\libur\Desktop\opengl_project\x64\Debug\learnopengl_tut.exe
